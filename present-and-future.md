@@ -1,6 +1,5 @@
 #The Present and Future of Nuclear Power Globally
-<ve-media src= "wc: https://tile.loc.gov/storage-services/service/pnp/highsm/55100/55121v.jpg "></ve-media>
-
+.ve-media wc: https://tile.loc.gov/storage-services/service/pnp/highsm/55100/55121v.jpg
 
 #Nuclear Power and Geopolitics 
 
