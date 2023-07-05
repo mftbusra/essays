@@ -23,10 +23,10 @@
 
 ### {.tabs style=height:600px}
 
-#### Image
+#### Places
 .ve-media wc:Aerial_view_of_La_Sagrada_Familia,_Barcelona,_Spain_(51227006134).jpg
 
-#### Map
+#### Map/Picture
 .ve-map Q1492 7
 
 #### Description 
