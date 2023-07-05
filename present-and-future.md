@@ -15,6 +15,8 @@
 
 .ve-iframe https://ourworldindata.org/grapher/primary-energy-share-nuclear-renewables
 
+
+
 .ve-iframe https://public.tableau.com/views/EstimatedGlobalNuclearWarheadInventories1945-2021/Dashboard1?:apiInternalVersion=1.131.0&:disableUrlActionsPopups=n&navSrc=Opt&:embed=y&navType=0&:suppressDefaultEditBehavior=n&mobile=n&:toolbar=n&:hideEditButton=n&:hideEditInDesktopButton=n&:jsdebug=n&:apiExternalVersion=3.6.0&:display_count=n&:origin=viz_share_link
 
 
