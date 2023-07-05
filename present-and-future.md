@@ -1,6 +1,5 @@
 
-.ve-media https://hdl.loc.gov/loc.pnp/highsm.55121
- caption= "The Present and Future of Nuclear Power Globally"
+.ve-media wc:Advanced_Test_Reactor.jpg caption= "The Present and Future of Nuclear Power Globally"
 
 #Nuclear Power and Geopolitics 
 
