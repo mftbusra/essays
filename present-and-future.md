@@ -10,6 +10,8 @@
 
 #Prevalence of nuclear power globally
 
+.ve-iframe https://ourworldindata.org/explorers/energy?time=latest&facet=none&country=~OWID_WRL&hideControls=false&Total+or+Breakdown=Select+a+source&Energy+or+Electricity=Primary+energy&Metric=Per+capita+consumption&Select+a+source=Nuclear
+
 
 
 
