@@ -1,9 +1,8 @@
 #The Present and Future of Nuclear Power Globally
-.ve-media 
+.ve-media wc: https://loc.gov/pictures/resource/highsm.55121/
 
 
-
-#Nuclear Power and Geopolitics
+#Nuclear Power and Geopolitics 
 
 
 
