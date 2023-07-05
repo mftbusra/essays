@@ -5,10 +5,12 @@
 
 
 
-
+TEXT
 
 
 #Prevalence of nuclear power globally
+
+TEXT
 
 .ve-iframe https://ourworldindata.org/explorers/energy?time=latest&facet=none&country=~OWID_WRL&hideControls=false&Total+or+Breakdown=Select+a+source&Energy+or+Electricity=Primary+energy&Metric=Per+capita+consumption&Select+a+source=Nuclear
 
@@ -18,6 +20,10 @@
 
 
 #Modern-day applications of nuclear power
+
+
+
+
 
 ## Electricity 
 
@@ -41,18 +47,26 @@ Barcelona is a transport hub, with the Port of Barcelona being one of Europe's p
 
 
 
+
 #Issues with modern nuclear power
+
+TEXT
+
+.ve-iframe https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh
+
+
 
 
 
 #Innovations in nuclear energy generation
 
 
-
+TEXT
 
 
 #Avoiding disasters
 
-
+TEXT
 
 #Social media and disaster tourism
+TEXT
