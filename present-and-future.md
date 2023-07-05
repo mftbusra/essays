@@ -1,5 +1,6 @@
 
-.ve-media https://tile.loc.gov/storage-services/service/pnp/highsm/55100/55121v.jpg caption= "The Present and Future of Nuclear Power Globally"
+.ve-media https://hdl.loc.gov/loc.pnp/highsm.55121
+ caption= "The Present and Future of Nuclear Power Globally"
 
 #Nuclear Power and Geopolitics 
 
