@@ -4,6 +4,14 @@
 #Nuclear Power and Geopolitics 
 
 
+### Geopolitics {.cards}
+
+#### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {href=#}
+
+
+
+
+
 
 TEXT
 
@@ -29,11 +37,12 @@ TEXT
 
 ### {.tabs style=height:600px}
 
-#### Places
-.ve-media wc:Aerial_view_of_La_Sagrada_Familia,_Barcelona,_Spain_(51227006134).jpg
+
+
 
 #### Map/Picture
 .ve-map Q1492 7
+.ve-media wc:Aerial_view_of_La_Sagrada_Familia,_Barcelona,_Spain_(51227006134).jpg
 
 #### Description 
 Barcelona (/ˌbɑːrsəˈloʊnə/ BAR-sə-LOH-nə, Catalan: [bəɾsəˈlonə], Spanish: [baɾθeˈlona]) is a city on the coast of northeastern Spain. It is the capital and largest city of the autonomous community of Catalonia, as well as the second most populous municipality of Spain. With a population of 1.6 million within city limits, its urban area extends to numerous neighbouring municipalities within the Province of Barcelona and is home to around 4.8 million people, making it the fifth most populous urban area in the European Union after Paris, the Ruhr area, Madrid, and Milan. It is one of the largest metropolises on the Mediterranean Sea, located on the coast between the mouths of the rivers Llobregat and Besòs, and bounded to the west by the Serra de Collserola mountain range, the tallest peak of which is 512 metres (1,680 feet) high.
