@@ -9,11 +9,73 @@
 #### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {href=#}
 
 
+## Nuclear Power and geopolitics
+
+
+
+#### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {href=#}
+
+For Asian countries, they are mostly leaning towards nuclear energy from their economics and increasing their energy demands perspective. Also nuclear power is green energy and sustainable for the environment as a lot of asian countries are depended on fossil fuel energy and they are going under the minimum percentage of forest a country should have. So, with growing industries and populations,if nuclear power is handled with proper precaution, it is the most consistent energy option for their overall energy mix to ensure energy security and meet their rising electricity needs.
+
+However, it is noteworthy that nuclear power is not entirely absent in Europe. Countries like France and Sweden,still heavily rely on nuclear energy for electricity. Also, some countries are embracing advanced nuclear technologies, such as small modular reactors and fusion, hoping to lead to a reevaluation of nuclear power in the future.
+
+There might be two reasons behind this.
+
+1.Western Europe’s Nuclear Need
+2.Eastern Europe’s Nuclear Conflicts
+
+Germany : All the NPPs are shut down (most recently by April 2023).
+
+Italy :  After 1986 rejected all plans.
+         In 2007 Was thinking about a restoration attempt 
+         In 2011 banned the use of nuclear power as the result of a referendum.
+
+Austria : In 1978, held a referendum on building an NPP, the citizens voted against nuclear power, never operated. 
+          In the 1960s, three small nuclear reactors were built for scientific purposes, and only one of these plants 
+          is still being operated.
+
+Switzerland :  In 1990, held a referendum, citizens supported a ten-year moratorium on building new NPPs, but the 
+               four existing plants continued in operation. 
+               In 2017, the Swiss government rejected the construction of new NPPs.
+
+UK : have plans to close all the NPPs by 2035.
+
+Belgium : have plans to close most of the NPPs by 2025, others by 2035.
+
+France :  68% of the country's annual electricity generation comes from NPPs.
+
+Netherlands : one NPP reactor in operation, one NPP in safe enclosure, two research reactors, one enrichment plant
+
+Ireland : In 1999, electricity produced by nuclear fission was banned.
+
+
+Russia : In 1987–2000, stopped building NPPs.
+         In the twenty-first century, Russia resumed the use of nuclear energy, Rosatom corporation consists of 360 
+         enterprises and currently building NPPs in twelve countries.
+
+Belarus : has returned to the use of NPPs. 
+          In 2021, the first Belarusian NPP operated.
+          By 2023, another NPP will start operating.
+
+Lithuania : closed its NPP (the sole source of 70 percent of its electricity)
+
+Poland : In the 1990 referendum, 86 percent of citizens voted against the use of nuclear power. 
+         proposal of own NPP in operation by 2030.
+
+The Czech Republic : has six reactors in operation and more in future.
+
+Slovakia : active four nuclear reactors.
+           In 2004, had to close two reactors as a condition of joining the EU.
+
+Ukraine : more than half the electricity produced from NPPs.
+
+
+
+The Chernobyl disaster majorly impacted on Europe's perception of nuclear power. EU is concerned about the safety of nuclear reactors and their potential for catastrophic consequences. Phasing out or reduce their reliance on nuclear power was influenced by public sentiment, political factors, and a desire to prioritize other alternative energy sources such as renewable energy. Long-term environmental impact of nuclear power played a role as well. Issues such as radioactive waste disposal, the risk of accidents, and the potential for nuclear proliferation have raised questions about the sustainability and desirability of nuclear energy.
 
 
 
 
-TEXT
 
 
 #Prevalence of nuclear power globally
