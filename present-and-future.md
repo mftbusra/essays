@@ -1,12 +1,9 @@
 
 .ve-header sticky "The Present and Future of Nuclear Power Globally" wc:De_Molen_(windmill)_and_the_nuclear_power_plant_cooling_tower_in_Doel,_Belgium_(DSCF3859).jpg 
 
-#Nuclear Power and Geopolitics 
+##Nuclear Power and Geopolitics 
 
 
-### Geopolitics {.cards}
-
-#### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {href=#}
 
 ## Nuclear Power and geopolitics
 
