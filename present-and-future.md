@@ -86,6 +86,10 @@ Again economic or political ties (foreign policy objectives) to either Russia or
 As Zaporizhzhia NPP was taken over by russian army. With continued shelling around the plant repeatedly cutting access to the electricity grid, it's last working reactor were planned to shut down. A stable electricity supply is important for any nuclear power plant to maintain cooling systems for radioactive fuel. Zaporizhzhia does have diesel generators to switch on when the primary electricity supply is cut, but they are not a long-term solution. The exact situation of not having continuous electricity to run the reactor worsened the situation of Chornobyl in the past, and also at Fukushima for the earthquake. Disaster at Zaporizhzhia, caused either by an accident or a deliberate attack, residents in Ukrainian towns and villages nearby could face the threat of radiation poisoning immediately or within a few hours.
 
 
+####Ukraine’s Dam collapse 
+
+The destruction of the colossal Nova Kakhovka dam is the draining water supplies, farming in the region and the cooling of the Zaporizhzhia nuclear power plant. Tons of oil have been leaked & mixed with water, which will eventually fall into the Dnipro River and potentially the Black Sea. 
+Kyiv has long warned of the danger of an attack on the dam. In this state, the dam’s destruction in the Kherson region is indicating towards a potential war crime which leads to another devastating consequence of the Russian invasion of Ukraine.
 
 
 TEXT
