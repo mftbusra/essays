@@ -72,6 +72,19 @@ Ukraine : more than half the electricity produced from NPPs.
 
 The Chernobyl disaster majorly impacted on Europe's perception of nuclear power. EU is concerned about the safety of nuclear reactors and their potential for catastrophic consequences. Phasing out or reduce their reliance on nuclear power was influenced by public sentiment, political factors, and a desire to prioritize other alternative energy sources such as renewable energy. Long-term environmental impact of nuclear power played a role as well. Issues such as radioactive waste disposal, the risk of accidents, and the potential for nuclear proliferation have raised questions about the sustainability and desirability of nuclear energy.
 
+####Is this the reason why Asia is not interested in Russian-Ukrainian war?
+
+
+The conflict between Russia and Ukraine is geographically distant from most Asian countries, and their immediate security concerns might be focused somewhere else. It's also true that the Russian-Ukrainian war has impacted global security and geopolitics, and some Asian countries' interests lies in the outcome (like China shares a border with Russia). 
+Again economic or political ties (foreign policy objectives) to either Russia or Ukraine impacted the support for each country. Countries with significant trade or investment links to either country tends to have a stronger incentive to monitor the situation closely due to potential economic repercussions.
+
+
+
+####Comparison with the Zaporizhzhya NPP that is currently playing a role in the Russian-Ukrainian warfare; comparison with Fukushima in how it’s handled & aftermath.
+
+
+As Zaporizhzhia NPP was taken over by russian army. With continued shelling around the plant repeatedly cutting access to the electricity grid, it's last working reactor were planned to shut down. A stable electricity supply is important for any nuclear power plant to maintain cooling systems for radioactive fuel. Zaporizhzhia does have diesel generators to switch on when the primary electricity supply is cut, but they are not a long-term solution. The exact situation of not having continuous electricity to run the reactor worsened the situation of Chornobyl in the past, and also at Fukushima for the earthquake. Disaster at Zaporizhzhia, caused either by an accident or a deliberate attack, residents in Ukrainian towns and villages nearby could face the threat of radiation poisoning immediately or within a few hours.
+
 
 
 
