@@ -12,13 +12,14 @@ For Asian countries, they are mostly leaning towards nuclear energy from their e
 
 The Chernobyl disaster majorly impacted on Europe's perception of nuclear power. The EU is concerned about the safety of nuclear reactors and their potential for catastrophic consequences. Phasing out or reducing their reliance on nuclear power was influenced by public sentiment, political factors, and a desire to prioritize other alternative energy sources such as renewable energy. Long-term environmental impact of nuclear power played a role as well. Issues such as radioactive waste disposal, the risk of accidents, and the potential for nuclear proliferation have raised questions about the sustainability and desirability of nuclear energy. [^10] [^12] [^22] [^25] [^26] [^35] [^36] [^40] [^41] [^42] [^44] [^47] [^48] [^53] [^60]
 
-However, it is noteworthy that nuclear power is not entirely absent in Europe. Countries like France and Sweden,still heavily rely on nuclear energy for electricity. Also, some countries are embracing advanced nuclear technologies, such as small modular reactors and fusion, hoping to lead to a reevaluation of nuclear power in the future. Western Europe’s Nuclear Need & Eastern Europe’s Nuclear Conflicts might be the reasons behind it. [^17] [^26] [^35] [^36] [^40] [^41]  [^42] [^44] [^47] [^48] [^53] [^60] If we look back some resources, it says - 
+However, it is noteworthy that nuclear power is not entirely absent in Europe. Countries like France and Sweden,still heavily rely on nuclear energy for electricity. Also, some countries are embracing advanced nuclear technologies, such as small modular reactors and fusion, hoping to lead to a reevaluation of nuclear power in the future. Western Europe’s Nuclear Need & Eastern Europe’s Nuclear Conflicts might be the reasons behind it. [^17] [^26] [^35] [^36] [^40] [^41]  [^42] [^44] [^47] [^48] [^53] [^60] 
 
 .ve-iframe width=80% height=600px https://ourworldindata.org/grapher/nuclear-primary-energy?facet=none&country=BGD~BLR~AUT~BEL~BRA~CHN~CZE~FIN~FRA~DEU~HKG~HUN~ISL~IND~IDN~IRL~LTU~VNM~GBR~OWID_USS~TUR~THA~TWN~SWE~LKA~ESP~SVK~SGP~KOR~RUS~PRT~POL~PHL~PAK~NLD~LUX~MYS 
 
 .ve-iframe width=80% height=600px https://ourworldindata.org/grapher/annual-change-nuclear?time=latest&facet=none&country=AUT~BGD~BLR~BEL~CHN~CZE~FRA~FIN~DEU~HKG~HUN~ISL~IND~IDN~IRN~IRQ~IRL~JPN~KAZ~KWT~LTU~VNM~GBR~UKR~OWID_USS~TUR~THA~TWN~SWE~CHE~LKA~ESP~KOR~SVK~RUS~PRT~POL~PHL~PAK~NOR~NLD~NZL~MEX~MYS~LUX 
 
 .ve-iframe width=80% height=600px https://ourworldindata.org/grapher/annual-change-nuclear?tab=chart&facet=entity&country=OWID_ASI~OWID_EUR~Europe+%28BP%29~OWID_EU27~Asia+Pa 
+
 
 ##### Germany
 All the NPPs are shut down (most recently by April 2023). 
