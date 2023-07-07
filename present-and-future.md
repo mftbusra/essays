@@ -56,9 +56,6 @@ In 2004, it had to close two reactors as a condition of joining the EU.
 ##### Ukraine
 More than half the electricity produced from NPPs. 
 
-
-
-
 .ve-iframe width=80% height=600px https://ourworldindata.org/grapher/nuclear-primary-energy?facet=none&country=BGD~BLR~AUT~BEL~BRA~CHN~CZE~FIN~FRA~DEU~HKG~HUN~ISL~IND~IDN~IRL~LTU~VNM~GBR~OWID_USS~TUR~THA~TWN~SWE~LKA~ESP~SVK~SGP~KOR~RUS~PRT~POL~PHL~PAK~NLD~LUX~MYS 
 
 .ve-iframe width=80% height=600px https://ourworldindata.org/grapher/annual-change-nuclear?time=latest&facet=none&country=AUT~BGD~BLR~BEL~CHN~CZE~FRA~FIN~DEU~HKG~HUN~ISL~IND~IDN~IRN~IRQ~IRL~JPN~KAZ~KWT~LTU~VNM~GBR~UKR~OWID_USS~TUR~THA~TWN~SWE~CHE~LKA~ESP~KOR~SVK~RUS~PRT~POL~PHL~PAK~NOR~NLD~NZL~MEX~MYS~LUX 
