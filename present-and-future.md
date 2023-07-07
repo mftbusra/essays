@@ -14,6 +14,12 @@ The Chernobyl disaster majorly impacted on Europe's perception of nuclear power.
 
 However, it is noteworthy that nuclear power is not entirely absent in Europe. Countries like France and Sweden,still heavily rely on nuclear energy for electricity. Also, some countries are embracing advanced nuclear technologies, such as small modular reactors and fusion, hoping to lead to a reevaluation of nuclear power in the future. Western Europe’s Nuclear Need & Eastern Europe’s Nuclear Conflicts might be the reasons behind it. [^17] [^26] [^35] [^36] [^40] [^41]  [^42] [^44] [^47] [^48] [^53] [^60] If we look back some resources, it says - 
 
+.ve-iframe width=80% height=600px https://ourworldindata.org/grapher/nuclear-primary-energy?facet=none&country=BGD~BLR~AUT~BEL~BRA~CHN~CZE~FIN~FRA~DEU~HKG~HUN~ISL~IND~IDN~IRL~LTU~VNM~GBR~OWID_USS~TUR~THA~TWN~SWE~LKA~ESP~SVK~SGP~KOR~RUS~PRT~POL~PHL~PAK~NLD~LUX~MYS 
+
+.ve-iframe width=80% height=600px https://ourworldindata.org/grapher/annual-change-nuclear?time=latest&facet=none&country=AUT~BGD~BLR~BEL~CHN~CZE~FRA~FIN~DEU~HKG~HUN~ISL~IND~IDN~IRN~IRQ~IRL~JPN~KAZ~KWT~LTU~VNM~GBR~UKR~OWID_USS~TUR~THA~TWN~SWE~CHE~LKA~ESP~KOR~SVK~RUS~PRT~POL~PHL~PAK~NOR~NLD~NZL~MEX~MYS~LUX 
+
+.ve-iframe width=80% height=600px https://ourworldindata.org/grapher/annual-change-nuclear?tab=chart&facet=entity&country=OWID_ASI~OWID_EUR~Europe+%28BP%29~OWID_EU27~Asia+Pa 
+
 ##### Germany
 All the NPPs are shut down (most recently by April 2023). 
 ##### Italy
@@ -55,11 +61,6 @@ In 2004, it had to close two reactors as a condition of joining the EU.
 ##### Ukraine
 More than half the electricity produced from NPPs. 
 
-.ve-iframe width=80% height=600px https://ourworldindata.org/grapher/nuclear-primary-energy?facet=none&country=BGD~BLR~AUT~BEL~BRA~CHN~CZE~FIN~FRA~DEU~HKG~HUN~ISL~IND~IDN~IRL~LTU~VNM~GBR~OWID_USS~TUR~THA~TWN~SWE~LKA~ESP~SVK~SGP~KOR~RUS~PRT~POL~PHL~PAK~NLD~LUX~MYS 
-
-.ve-iframe width=80% height=600px https://ourworldindata.org/grapher/annual-change-nuclear?time=latest&facet=none&country=AUT~BGD~BLR~BEL~CHN~CZE~FRA~FIN~DEU~HKG~HUN~ISL~IND~IDN~IRN~IRQ~IRL~JPN~KAZ~KWT~LTU~VNM~GBR~UKR~OWID_USS~TUR~THA~TWN~SWE~CHE~LKA~ESP~KOR~SVK~RUS~PRT~POL~PHL~PAK~NOR~NLD~NZL~MEX~MYS~LUX 
-
-.ve-iframe width=80% height=600px https://ourworldindata.org/grapher/annual-change-nuclear?tab=chart&facet=entity&country=OWID_ASI~OWID_EUR~Europe+%28BP%29~OWID_EU27~Asia+Pa 
 
 ### World Power around the Russian-Ukrainian War
 The conflict between Russia and Ukraine is geographically distant from most Asian countries, and their immediate security concerns might be focused somewhere else. It's also true that the Russian-Ukrainian war has impacted global security and geopolitics, and some Asian countries' interests lies in the outcome (like China shares a border with Russia). Again economic or political ties (foreign policy objectives) to either Russia or Ukraine impacted the support for each country. Countries with significant trade or investment links to either country tends to have a stronger incentive to monitor the situation closely due to potential economic repercussions. [^11] [^14] [^22] [^25] [^53] [^54] [^55]
